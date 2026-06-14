@@ -1,7 +1,4 @@
-#return
-# ↓
-# Function ko band karta hai.
-# Aur value wapas bhej sakta hai.
+
 
 from datetime import datetime
 import json
