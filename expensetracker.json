@@ -1,0 +1,12 @@
+{
+    "expenses": [
+        {
+            "date": "2026-06-15",
+            "time": "02:00:42",
+            "eid": 1,
+            "category": "food",
+            "amount": 200.0,
+            "description": "Chole Bhature"
+        }
+    ]
+}
